@@ -12,9 +12,9 @@
 
 - 🔭 I’m interested in **Open Source Contribution**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js, MongoDB, Express Js**
 
-- 📫 How to reach me : **yashsaini18166@gmail.com**
+- 📫 How to reach me: **yashsaini18166@gmail.com**
 
 
 ## 🌐 Socials:
