@@ -53,7 +53,7 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yash-saini-40149a28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/yash596" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/YaSh_596" target="_blank">
