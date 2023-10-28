@@ -1,3 +1,10 @@
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/41/c5/14/41c514a7ddf0cc6232df78fc3d26f002.gif"  />
+</div>
+
+###
+
+
 <h1 align="left">Hey,I'm Yash 👀</h1>
 
 
@@ -57,12 +64,6 @@
 
 
 ###
-
-<img align="right" height="150" src="https://gifdb.com/images/high/one-piece-ace-big-smile-3vz710lp6dqb6ebl.gif"  />
-<img align="left" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-boy-20.gif"  />
-
-
-
 <br clear="both">
 
 # 📊 GitHub Stats:
@@ -71,3 +72,31 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yashh56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Yashh56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+<br clear="both">
+
+<img align="left" height="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="  />
+
+###
+
+<img align="right" height="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="  />
+</div>
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
